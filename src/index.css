@@ -1,0 +1,15 @@
+
+
+.App .cards{
+  display: flex;
+  flex-wrap: wrap; /* Allow wrapping if screen is small */
+  justify-content: space-between;
+  gap: 20px; /* space between the cards */
+  margin: 0 auto;
+
+
+}
+
+.App{
+  background-color: lightgrey;
+}
